@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/terunobushindo/co-co-sample/
+    type: markup
+
+folders:
+  /products/: /products/default

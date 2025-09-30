@@ -1,5 +1,5 @@
 {
   "project": "My Project",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/terunobushindo/co-co-sample{{pathname}}"
+  "editUrlPattern": "https://da.live/edit#/terunobushindo/co-co-sample/{{pathname}}"
 }
